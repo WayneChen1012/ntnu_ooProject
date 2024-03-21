@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"山村","order":1,"parentId":0,"scrollX":995,"scrollY":641,"quick":false},
+{"id":2,"expanded":false,"name":"森林","order":2,"parentId":1,"scrollX":816,"scrollY":794,"quick":false},
+{"id":3,"expanded":false,"name":"迷宮之森","order":3,"parentId":1,"scrollX":980,"scrollY":624,"quick":false},
+{"id":4,"expanded":false,"name":"廢棄的民房","order":4,"parentId":1,"scrollX":979,"scrollY":553,"quick":false}
+]
